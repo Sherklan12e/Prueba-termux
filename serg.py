@@ -11,7 +11,9 @@ def palabra():
     
     
     nombre = pyfiglet.figlet_format(formula, font = "banner3-D")
+    
     print(nombre)
+    
     
     
     
