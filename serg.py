@@ -1,8 +1,5 @@
 
-import pyfiglet
-
-
-
+import pyfiglet 
 
 def palabra():
     escribir = input('Escriba su nombre: ')
